@@ -1,0 +1,34 @@
+.bgimg5 {
+	background-image: url('https://www.whatsmobiles.com/wp-content/uploads/2022/01/samsung-galaxy-s22-ultra.jpg');
+	background-size: cover;
+	height: 200vh;
+}
+.headfirst2 {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+	padding: 20px;
+}
+.cardlayout2 {
+	background-color: white;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcon2 {
+	padding: 20px;
+}
+.headsecond2 {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 20px;
+}
+.paraline2 {
+	color: grey;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 15px;
+}

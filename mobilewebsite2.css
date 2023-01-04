@@ -1,0 +1,33 @@
+.bgimg2 {
+	background-image: url('https://res.cloudinary.com/dgdwppkjk/image/upload/v1672307133/gradient-bokeh-digital-business-wallpaper_53876-110796_aks7wg.webp');
+	background-size: cover;
+	height: 150vh;
+}
+.mobilehead {
+	color: white;
+	padding: 20px;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.layoutcard2 {
+	background-color: white;
+	border-radius: 10px;
+	padding: 15px;
+	margin: 15px;
+}
+.brandsimg {
+	width: 150px;
+	height: 150px;
+}
+.brandshead {
+	color: #021f0a;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara {
+	color: black;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
